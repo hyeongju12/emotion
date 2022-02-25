@@ -46,7 +46,7 @@
 
 ## 📃 프로젝트 구조
 
-![Untitled 3](./Untitle2.png)
+![Untitled2](./Untitled2.png)
 
 <br>
 <br>
